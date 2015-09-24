@@ -1,0 +1,32 @@
+
+body {
+	background-color:khaki;
+}
+div#img{
+	
+	position:absolute;
+	left:33%;
+	top:5%;
+	width:33%;
+	height:80%;
+}
+div#buttons{
+		position:absolute;
+	right:5%;
+	top:5%;
+	line-height: 0.5;
+}
+div#message{}
+
+button{
+	background-color:ghost;
+	width:80px;
+	height:30px;
+	border:solid 2px grey ;
+	border-radius:5px;
+} 
+button.button{}
+img{
+background-color:khaki;	
+border:solid 1px khaki;
+}
